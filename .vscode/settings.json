@@ -1,0 +1,4 @@
+{
+    "editor.formatOnSaveTimeout": 1e+299,
+    "editor.formatOnSave": true
+}
